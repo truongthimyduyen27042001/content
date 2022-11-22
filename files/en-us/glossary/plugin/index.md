@@ -11,7 +11,7 @@ As browsers have become more powerful, plugins have become less useful. Plugins 
 
 Between 2016 and 2021 browser vendors worked on a deprecation roadmap for plugins and in particular for Adobe Flash, and today plugins are no longer supported by any major browsers.
 
-Plugins should not be confused with browser extensions, which unlike plugins are distributed as source code rather than binaries, and which are still supported by browsers, notably using the {{Glossary("WebExtensions")}} system.
+Plugins should not be confused with browser extensions, which unlike plugins are distributed as source code rather than binaries, and which are still supported by browsers, notably using the {{Glossary("WebExtensions")}} system.ssdsddsd
 
 ## See also
 
